@@ -13,6 +13,7 @@ function Header() {
                     <div className="inline-flex ">
                         <span className="font-bold"></span>
                     </div>
+                    <span></span>
 
                     <div className="hidden grow items-start lg:flex">
                         <ul className=" inline-flex space-x-8 ">
